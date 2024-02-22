@@ -1,1 +1,3 @@
-
+- [Корзина](/features/cart/README.md)
+- [Главная](/features/main/README.md)
+- [Страница ресторана](/features/restaurant/README.md)

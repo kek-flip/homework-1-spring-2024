@@ -1,4 +1,3 @@
-
 # Тестовые отчеты по функциям
 
 - [Авторизация и регистрация](/features/registration/README.md)
@@ -10,3 +9,6 @@
 - [Оформление заказа](/features/CreateOrder/README.md)
 - [Промокоды](/features/Promocodes/README.md)
 - [Страница статуса и история заказов](/features/StatatusOrder/README.md)
+- [Профиль](/features/profile/README.md)
+- [Комментарии](/features/comments/README.md)
+- [Навбар](/features//navbar/README.md)
